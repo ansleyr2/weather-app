@@ -1,7 +1,14 @@
 # javaScript Weather App
 
-A javaScript based weather app to fetch data from external api and display. Uses ES6.
-Uses media queries and css grid to support different screen resolutions and change the layout accordingly.
+A javaScript based weather application(web) that displays weather details and forecast for user entered location(city name).
+
+The app uses css grid and media queries to support different layouts on different devices.(Mobile/laptop/desktop) .
+
+Used openWeatherMap api to fetch data for a location and ES6 features to work and manipulate the data.
+
+Follows the MVC pattern.
+
+looks good on small screen devices as well!
 
 ### Demo
 https://js-weather-app.stackblitz.io
