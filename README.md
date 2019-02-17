@@ -3,6 +3,9 @@
 A javaScript based weather app to fetch data from external api and display. Uses ES6.
 Uses media queries and css grid to support different screen resolutions and change the layout accordingly.
 
+### Demo
+https://js-weather-app.stackblitz.io
+
 ## Getting Started
 
 Clone or download the project to your system.
