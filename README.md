@@ -5,6 +5,7 @@ A javaScript based weather application(web) that displays weather details and fo
 The app uses css grid and media queries to support different layouts on different devices.(Mobile/laptop/desktop) .
 
 Used openWeatherMap api to fetch data for a location and ES6 features to work and manipulate the data.
+Uses Webpack and babel for transpiling next gen javaScript to browser understandable code. 
 
 Follows the MVC pattern.
 
