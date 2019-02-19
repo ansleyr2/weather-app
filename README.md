@@ -1,6 +1,6 @@
 # javaScript Weather App
 
-##### Demo: https://js-weather-app.stackblitz.io
+#### https://js-weather-app.stackblitz.io
 
 A javaScript based weather application(web) that displays weather details and forecast for user entered location(city name).
 
