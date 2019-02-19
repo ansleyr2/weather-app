@@ -1,5 +1,7 @@
 # javaScript Weather App
 
+##### Demo: https://js-weather-app.stackblitz.io
+
 A javaScript based weather application(web) that displays weather details and forecast for user entered location(city name).
 
 The app uses css grid and media queries to support different layouts on different devices.(Mobile/laptop/desktop) .
@@ -10,9 +12,6 @@ Uses Webpack and babel for transpiling next gen javaScript to browser understand
 Follows the MVC pattern.
 
 looks good on small screen devices as well!
-
-### Demo
-https://js-weather-app.stackblitz.io
 
 ## Getting Started
 
